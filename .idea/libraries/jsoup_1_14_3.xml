@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jsoup-1.14.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/JSoup/jsoup-1.14.3.jar!/" />
+      <root url="jar://$USER_HOME$/DriverForSql/mssql-jdbc-9.4.0.jre16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
